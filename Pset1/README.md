@@ -35,5 +35,4 @@ The goal of this assignment was to build intuition around model fitting, numeric
 - Understanding degeneracy and uncertainty in astrophysical inference  
 - Using Python’s scientific ecosystem effectively  
 
-## 📁 Repository Structure (Suggested)
 
